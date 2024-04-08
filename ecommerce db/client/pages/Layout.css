@@ -1,0 +1,20 @@
+.navbar {
+  
+    background-color: rgb(179, 61, 61);
+    
+}
+.nav {
+    font-size: 15px;
+ 
+}
+.input-group .form-control{
+  position: relative;
+   top: 10px;
+   left: 20px; 
+}
+ 
+.btn{
+    position: relative;
+  left: 320px;
+  bottom: 22px;
+}
